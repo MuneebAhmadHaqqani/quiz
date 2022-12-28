@@ -4,3 +4,5 @@ modified first txt file
 
 modified file at GITHUB plate form ..I deally shiuld nOT be modified at GIT hUB..Hoever as of now we dont have our team mate tl amke some changes,,SO we will 
 modify the chnages and will fetch these changes into local repo
+
+changes made for SMQUIZ
